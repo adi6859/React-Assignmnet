@@ -1,0 +1,13 @@
+NPM=>Node Package manager
+type script datatype
+string
+number
+boolean
+null
+undefined
+void
+object
+array
+tuples
+any
+unknown
